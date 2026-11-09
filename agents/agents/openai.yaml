@@ -1,0 +1,4 @@
+interface:
+  display_name: "产品制作搭档"
+  short_description: "梳理阶段与反馈，提醒关键决定，陪你完成设计到上线"
+  default_prompt: "Use $product-build-partner to review my current product stage, group my feedback, recommend the next priority, and carry out the work I have authorized."
